@@ -1,5 +1,5 @@
 # Google_Case_study_Cyclistics_Bike_Analysis
-![]()
+![](https://github.com/Saswati-18/Google_Case_study_Cyclistics_Bike_Analysis/blob/main/dashboard_cyclistic.png)
 
 ## 🎯 Objective
 Analyze usage trends and rider behavior of the Cyclistic Bike-Share program to support marketing and business strategy for converting casual riders into annual members.
