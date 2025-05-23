@@ -5,28 +5,28 @@
 Analyze usage trends and rider behavior of the Cyclistic Bike-Share program to support marketing and business strategy for converting casual riders into annual members.
 
 ## 👩‍💻 Tech Stack
-**Data Preparation:** Excel
-**Data Analysis:** SQL
-**Data Visualization:** Power BI
-**Data Transformation:** Power Query
-**Data Modeling:** DAX Calculations
+* **Data Preparation:** Excel
+* **Data Analysis:** SQL
+* **Data Visualization:** Power BI
+* **Data Transformation:** Power Query
+* **Data Modeling:** DAX Calculations
 
 ## 📊 Key Metrics
-**Total Rides:** 5.86 Million
-**Average Ride Length:** 17.32 minutes
-**Most Popular Month:** September
-**Most Popular Day:** Saturday
-**User Types:** Casual & Member
-**Bike Types:** Classic, Electric, Scooter
+* **Total Rides:** 5.86 Million
+* **Average Ride Length:** 17.32 minutes
+* **Most Popular Month:** September
+* **Most Popular Day:** Saturday
+* **User Types:** Casual & Member
+* **Bike Types:** Classic, Electric, Scooter
 
 ## 📈 Visuals Developed
-**Cards:** Avg Ride Length, Total Rides, Busiest Month & Day
-**Donut Chart:** Rides by Bike Type
-**Bar Chart:** Rides by User Type
-**Line Graph:** Rides by Hour (Member vs Casual)
-**Stacked Column:** Bike Type by Users
-**Line Chart:** Rides by Day of Week
-**Column Chart:** Rides by Month (Casual vs Member)
+* **Cards:** Avg Ride Length, Total Rides, Busiest Month & Day
+* **Donut Chart:** Rides by Bike Type
+* **Bar Chart:** Rides by User Type
+* **Line Graph:** Rides by Hour (Member vs Casual)
+* **Stacked Column:** Bike Type by Users
+* **Line Chart:** Rides by Day of Week
+* **Column Chart:** Rides by Month (Casual vs Member)
 
 ## 🔍 Key Insights
 * Electric Bikes are the most popular, accounting for over 51% of total rides.
